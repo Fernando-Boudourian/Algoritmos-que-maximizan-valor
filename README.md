@@ -1,2 +1,2 @@
 # Algoritmos-que-maximizan-valor
-Repositorios de conocimiento financiero aplicados a patrimonios. La IA permite un enfoque de inversión ágil, adaptativo y personalizado.
+La inteligencia artificial enriquece los repositorios de código con soluciones para la gestión patrimonial. Con algoritmos de predicción, segmentación y análisis de riesgos, se abren nuevas formas de personalizar inversiones y escalar eficiencia operativa. Una nueva era donde los commits también crean riqueza.
